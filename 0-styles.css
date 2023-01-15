@@ -1,0 +1,11 @@
+li {
+    width: 30px;
+    border: 1px solid grey;
+    padding: 50px;
+    margin: 15px;
+    display: inline;
+    text-decoration: bold;
+}
+.i-html {
+    background-image: url();
+}
